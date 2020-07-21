@@ -1,0 +1,3 @@
+#!/bin/bash
+# Simple Startup Script
+/etc/init.d/php7.4-fpm start && /usr/sbin/nginx
